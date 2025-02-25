@@ -20,7 +20,7 @@ El sitio incluye:
 
 El sitio web está disponible en **GitHub Pages** en el siguiente enlace:
 
-➡️ [Vacaciones Inolvidables - GitHub Pages](https://TU-USUARIO.github.io/practica2pat/)  
+➡️ [Vacaciones Inolvidables - GitHub Pages](https://TU-USUARIO.github.io/practica3pat/indice.html)  
 
 ---
 
